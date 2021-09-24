@@ -68,10 +68,10 @@ body{
 
 @media screen and (max-width: 768px){
 
-    .seccion2{
-          display: flex;
-          flex-direction: column;
-    }
+
+  .footer{
+      height: 275px;
+  }
 
 
 
@@ -80,10 +80,9 @@ body{
 
 @media screen and (max-width: 1200px){
 
-    .seccion2{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
+
+    .footer{
+        height: 275px;
     }
 
 
