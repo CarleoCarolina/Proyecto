@@ -205,7 +205,11 @@ justify-content: space-around;
           display: flex;
           flex-direction: column;
     }
-
+    .ficha{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
 
 
 }
@@ -218,7 +222,11 @@ justify-content: space-around;
         flex-direction: row;
         justify-content: space-evenly;
     }
-
+    .ficha{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
 
 
 }
