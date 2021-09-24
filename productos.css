@@ -196,7 +196,7 @@ justify-content: space-around;
 }
 
 
-@media screen and (min-width: 768px){
+@media screen and (max-width: 768px){
 
 .fotoproducto{
     flex-direction: column;
@@ -207,7 +207,7 @@ justify-content: space-around;
     }
     .ficha{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-around;
     }
 
@@ -220,11 +220,6 @@ justify-content: space-around;
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
-    }
-    .ficha{
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
     }
 
 
