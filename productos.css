@@ -205,6 +205,10 @@ justify-content: space-around;
     width: 125px; 
     height: 100px; ;
   }
+    .pages1{
+        width: 125px; ;
+        height: 100px; ;
+    }
 
     .seccion2{
           display: flex;
