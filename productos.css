@@ -212,7 +212,7 @@ justify-content: space-around;
 
     .seccion2{
           display: flex;
-          flex-direction: column;
+          flex-direction: column-reverse;
     }
     .ficha{
         display: flex;
