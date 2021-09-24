@@ -199,7 +199,7 @@ justify-content: space-around;
 @media screen and (max-width: 768px){
 
 .fotoproducto{
-    flex-direction: column;
+    flex-direction: column-reverse;
 }
     .seccion2{
           display: flex;
