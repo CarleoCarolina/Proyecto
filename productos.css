@@ -201,7 +201,7 @@ justify-content: space-around;
 .fotoproducto{
     flex-direction: column-reverse;
 }
-  .fotop{
+  .fotop,.fotoacerca{
     width: 125px; 
     height: 100px; ;
   }
