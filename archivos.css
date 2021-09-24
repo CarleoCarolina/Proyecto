@@ -11,7 +11,7 @@ body{
 
 .footer{
     background-image: linear-gradient(#171716,#3b3a3a,#545252);
-    height:250px;
+   
     
 }
 
@@ -70,7 +70,7 @@ body{
 
 
   .footer{
-      height: 275px;
+      height: 300px;
   }
 
 
@@ -82,7 +82,7 @@ body{
 
 
     .footer{
-        height: 275px;
+        height: 300px;
     }
 
 
