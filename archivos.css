@@ -66,7 +66,7 @@ body{
     list-style-type: none;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 70px){
 
     .seccion2{
           display: flex;
